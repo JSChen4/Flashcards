@@ -6,7 +6,8 @@
 Created my first basic flashcard.
 
 ### App Walk-though
-<div style="width:100%;height:0;padding-bottom:203%;position:relative;"><iframe src="https://giphy.com/embed/x73QcYMMs5K7aWjhF3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/x73QcYMMs5K7aWjhF3">via GIPHY</a></p>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/78508685/109397873-1476e400-7907-11eb-8170-43295b979352.gif)
+
 
 ## Required
 - [x] Create New Project in Xcode
